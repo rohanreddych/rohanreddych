@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![gandalf](https://github.com/rohanreddych/rohanreddych/blob/master/gandalf.gif)
+
+
+<p align="center">
+  <img src="https://github.com/rohanreddych/rohanreddych/blob/master/gandalf.gif" alt="gandalf"/>
+</p>
