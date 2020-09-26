@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 ### Recent Blog posts
 
+* [ALL POSTS](https://www.section.io/engineering-education/authors/rohan-reddy/)
 * [Text Generation with Recurrent Neural Networks](https://www.section.io/engineering-education/text-generation-nn/)
 * [Introduction to GitHub Actions](https://www.section.io/engineering-education/github-actions/)
 * [Data Visualization with D3.js](https://www.section.io/engineering-education/data-visualization-with-d3js/)
