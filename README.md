@@ -21,6 +21,9 @@ Here are some ideas to get you started:
   <img src="https://github.com/rohanreddych/rohanreddych/blob/master/gandalf.gif" alt="gandalf"/>
 </p>
 
+### Socials
+
+[KDE invent](https://invent.kde.org/rohanch)
 
 ### Recent Blog posts
 
